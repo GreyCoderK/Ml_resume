@@ -28,3 +28,7 @@
 
 * [Regulation.pdf](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P14-Regularization.pdf)
 * [Pro cons regression](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P14-Regression-Pros-Cons.pdf)
+
+##time serie
+
+[first part of time serie on machine learning](https://towardsdatascience.com/ml-approaches-for-time-series-4d44722e48fe)
