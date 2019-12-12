@@ -32,3 +32,5 @@
 ## time serie
 
 [first part of time serie on machine learning](https://towardsdatascience.com/ml-approaches-for-time-series-4d44722e48fe)
+[time series analysis](https://medium.com/tag/time-series-analysis)
+[time series forecasting](https://medium.com/tag/time-series-forecasting)
